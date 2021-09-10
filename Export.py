@@ -76,3 +76,4 @@ with open("unf.csv","w",encoding='UTF-8') as f:#Enter your file name.
         writer.writerow([i,username, user.id, name, target , status])
 print('Members Scraped Successfully.')
 
+
